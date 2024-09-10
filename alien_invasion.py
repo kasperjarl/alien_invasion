@@ -1,5 +1,6 @@
 import sys
 from time import sleep
+# below: fixed window size
 # import os
 # x = 100
 # y = 0
